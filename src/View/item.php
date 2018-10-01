@@ -1,14 +1,6 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: nihad
- * Date: 01/10/18
- * Time: 14:03
- */
-
 <!DOCTYPE html>
 <html>
-<head> ... </head>
+<head> Jvais devenir wild a force de galerer </head>
 <body>
     <section>
         <h1>Items</h1>
