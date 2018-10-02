@@ -1,0 +1,17 @@
+{
+    "name": "nihad/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Nihad96",
+            "email": "nihad.zatric@gmail.com"
+        }
+    ],
+    "require": {},
+
+
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

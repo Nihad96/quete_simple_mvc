@@ -1,9 +1,18 @@
-
 <?php
-// src/Controller/ItemController.php
-require __DIR__ . '/../Model/ItemManager.php';
 
-$items = selectAllItems();
+namespace Controller;
 
-require __DIR__ . '/../View/item.php';
+use Model;..
+
+.............
+
+
+class ItemController {
+    public function index(){
+        $itemManager = new Model\ItemManager();
+        $items = $itemManager -> selectAllItems();
+        require __DIR__ . '/../View/item.php';
+    }
+}
+
 ?>
