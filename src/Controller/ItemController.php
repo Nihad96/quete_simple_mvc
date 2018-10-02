@@ -2,9 +2,9 @@
 
 namespace Controller;
 
-use Model;..
+use Model;
 
-.............
+
 
 
 class ItemController {
